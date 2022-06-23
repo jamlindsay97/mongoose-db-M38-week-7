@@ -1,0 +1,25 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000m\u0000o\u0000n\u0000g\u0000o\u0000o\u0000s\u0000e\u0000-\u0000d\u0000b\u0000-\u0000M\u00003\u00008\u0000-\u0000w\u0000e\u0000e\u0000k\u0000-\u00007\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamlindsay97/mongoose-db-M38-week-7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamlindsay97/mongoose-db-M38-week-7/issues"
+  },
+  "homepage": "https://github.com/jamlindsay97/mongoose-db-M38-week-7#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.4.0",
+    "yargs": "^17.5.1"
+  }
+}
